@@ -1,0 +1,1 @@
+CREATE TABLE Users (PersonID INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT, LastName varchar(225) NOT NULL, FirstName varchar (255) NOT NULL, Address varchar (255) NOT NULL, City varchar (255) NOT NULL);
